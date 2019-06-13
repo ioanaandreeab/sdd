@@ -1,0 +1,3 @@
+﻿  Liste_simple.cpp
+c:\users\ioana\source\repos\liste_simplu_inlantuite\liste_simplu_inlantuite\liste_simple.cpp(205): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Liste_simplu_inlantuite.vcxproj -> C:\Users\ioana\source\repos\Liste_simplu_inlantuite\Debug\Liste_simplu_inlantuite.exe

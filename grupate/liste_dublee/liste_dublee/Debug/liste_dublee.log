@@ -1,0 +1,4 @@
+﻿  listeDuble.cpp
+c:\users\ioana\desktop\an 2\sem 2\sdd\grupate\liste_dublee\liste_dublee\listeduble.cpp(182): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\ioana\desktop\an 2\sem 2\sdd\grupate\liste_dublee\liste_dublee\listeduble.cpp(224): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  liste_dublee.vcxproj -> C:\Users\ioana\Desktop\AN 2\Sem 2\SDD\grupate\liste_dublee\Debug\liste_dublee.exe

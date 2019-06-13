@@ -1,0 +1,5 @@
+﻿  hash.cpp
+c:\users\ioana\source\repos\hash-table\hash-table\hash.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\ioana\source\repos\hash-table\hash-table\hash.cpp(131): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\ioana\source\repos\hash-table\hash-table\hash.cpp(105): warning C4715: 'cautareCofetarie': not all control paths return a value
+  hash-table.vcxproj -> C:\Users\ioana\source\repos\hash-table\Debug\hash-table.exe

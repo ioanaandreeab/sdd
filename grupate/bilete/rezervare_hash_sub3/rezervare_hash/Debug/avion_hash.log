@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (avion_hash.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  sub3.cpp
+c:\users\ioana\desktop\an 2\sem 2\sdd\grupate\bilete\rezervare_hash_sub3\rezervare_hash\sub3.cpp(131): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\ioana\desktop\an 2\sem 2\sdd\grupate\bilete\rezervare_hash_sub3\rezervare_hash\sub3.cpp(106): warning C4715: 'cautareRezervare': not all control paths return a value
+  avion_hash.vcxproj -> C:\Users\ioana\Desktop\AN 2\Sem 2\SDD\grupate\bilete\rezervare_hash_sub3\rezervare_hash\Debug\rezervare_hash.exe

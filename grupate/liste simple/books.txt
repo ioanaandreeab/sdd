@@ -1,0 +1,16 @@
+321
+3
+Popescu A
+Georgescu B
+Grigorescu M
+Titlu carte
+9
+2
+Marian C
+Adam I
+Titlu carteeee
+50
+2
+Ionescu I
+Popescu G
+Titlu

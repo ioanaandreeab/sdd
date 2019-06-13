@@ -1,0 +1,4 @@
+﻿  sub5.cpp
+c:\users\ioana\desktop\an 2\sem 2\sdd\grupate\bilete\liste_duble_lac_sub5\liste_duble_lac_sub5\sub5.cpp(137): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\ioana\desktop\an 2\sem 2\sdd\grupate\bilete\liste_duble_lac_sub5\liste_duble_lac_sub5\sub5.cpp(135): warning C4715: 'stergereDupaCod': not all control paths return a value
+  liste_duble_lac_sub5.vcxproj -> C:\Users\ioana\Desktop\AN 2\Sem 2\SDD\grupate\bilete\liste_duble_lac_sub5\Debug\liste_duble_lac_sub5.exe

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\ioana\source\repos\sem11_sdd\sem11_sdd\source.cpp(133): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  SEM11_SDD.vcxproj -> C:\Users\ioana\source\repos\SEM11_SDD\Debug\SEM11_SDD.exe

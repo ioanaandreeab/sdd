@@ -1,0 +1,5 @@
+﻿  hash_chaining.cpp
+c:\users\ioana\source\repos\hash_chaining\hash_chaining\hash_chaining.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\ioana\source\repos\hash_chaining\hash_chaining\hash_chaining.cpp(121): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\ioana\source\repos\hash_chaining\hash_chaining\hash_chaining.cpp(104): warning C4715: 'cautareDupaSerie': not all control paths return a value
+  hash_chaining.vcxproj -> C:\Users\ioana\source\repos\hash_chaining\Debug\hash_chaining.exe

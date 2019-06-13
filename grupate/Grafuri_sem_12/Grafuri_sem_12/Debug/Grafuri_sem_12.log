@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\ioana\source\repos\grafuri_sem_12\grafuri_sem_12\source.cpp(194): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Grafuri_sem_12.vcxproj -> C:\Users\ioana\source\repos\Grafuri_sem_12\Debug\Grafuri_sem_12.exe

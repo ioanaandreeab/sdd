@@ -1,0 +1,3 @@
+﻿  stive_si_cozi.cpp
+c:\users\ioana\source\repos\stive_si_cozi\stive_si_cozi\stive_si_cozi.cpp(168): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  stive_si_cozi.vcxproj -> C:\Users\ioana\source\repos\stive_si_cozi\Debug\stive_si_cozi.exe

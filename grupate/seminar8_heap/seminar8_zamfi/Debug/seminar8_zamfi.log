@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\ioana\source\repos\seminar8_zamfi\seminar8_zamfi\source.cpp(101): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  seminar8_zamfi.vcxproj -> C:\Users\ioana\source\repos\seminar8_zamfi\Debug\seminar8_zamfi.exe

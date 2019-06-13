@@ -1,0 +1,7 @@
+﻿  lista_simpla_circulara.cpp
+c:\users\ioana\source\repos\bilet_listacirculara\bilet_listacirculara\lista_simpla_circulara.cpp(155): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\ioana\source\repos\bilet_listacirculara\bilet_listacirculara\lista_simpla_circulara.cpp(157): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ioana\source\repos\bilet_listacirculara\bilet_listacirculara\lista_simpla_circulara.cpp(159): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ioana\source\repos\bilet_listacirculara\bilet_listacirculara\lista_simpla_circulara.cpp(162): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ioana\source\repos\bilet_listacirculara\bilet_listacirculara\lista_simpla_circulara.cpp(171): warning C4101: 'cod': unreferenced local variable
+  Bilet_listaCirculara.vcxproj -> C:\Users\ioana\source\repos\Bilet_listaCirculara\Debug\Bilet_listaCirculara.exe

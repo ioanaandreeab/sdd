@@ -1,0 +1,4 @@
+﻿  sub1.cpp
+c:\users\ioana\desktop\an 2\sem 2\sdd\grupate\bilete\fisier_lista_dubla_sub1\fisier_lista_dubla_sub1\sub1.cpp(163): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\ioana\desktop\an 2\sem 2\sdd\grupate\bilete\fisier_lista_dubla_sub1\fisier_lista_dubla_sub1\sub1.cpp(125): warning C4715: 'cautareFisier': not all control paths return a value
+  fisier_lista_dubla_sub1.vcxproj -> C:\Users\ioana\Desktop\AN 2\Sem 2\SDD\grupate\bilete\fisier_lista_dubla_sub1\Debug\fisier_lista_dubla_sub1.exe
