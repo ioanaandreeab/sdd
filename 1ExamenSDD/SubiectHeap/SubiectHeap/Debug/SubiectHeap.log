@@ -1,0 +1,37 @@
+﻿Build started 06.07.2017 19:09:34.
+     1>Project "C:\Users\Black\Documents\Visual Studio 2013\Projects\1ExamenSDD\SubiectHeap\SubiectHeap\SubiectHeap.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\black\documents\visual studio 2013\projects\1examensdd\subiectheap\subiectheap\source.cpp(41): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\black\documents\visual studio 2013\projects\1examensdd\subiectheap\subiectheap\source.cpp(44): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\black\documents\visual studio 2013\projects\1examensdd\subiectheap\subiectheap\source.cpp(46): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\black\documents\visual studio 2013\projects\1examensdd\subiectheap\subiectheap\source.cpp(190): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\black\documents\visual studio 2013\projects\1examensdd\subiectheap\subiectheap\source.cpp(236): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\black\documents\visual studio 2013\projects\1examensdd\subiectheap\subiectheap\source.cpp(240): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\black\documents\visual studio 2013\projects\1examensdd\subiectheap\subiectheap\source.cpp(243): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\black\documents\visual studio 2013\projects\1examensdd\subiectheap\subiectheap\source.cpp(244): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\black\documents\visual studio 2013\projects\1examensdd\subiectheap\subiectheap\source.cpp(245): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\black\documents\visual studio 2013\projects\1examensdd\subiectheap\subiectheap\source.cpp(246): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\black\documents\visual studio 2013\projects\1examensdd\subiectheap\subiectheap\source.cpp(247): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\black\documents\visual studio 2013\projects\1examensdd\subiectheap\subiectheap\source.cpp(248): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\black\documents\visual studio 2013\projects\1examensdd\subiectheap\subiectheap\source.cpp(169): warning C4715: 'returnBuget' : not all control paths return a value
+     1>c:\users\black\documents\visual studio 2013\projects\1examensdd\subiectheap\subiectheap\source.cpp(230): warning C4715: 'schimbare' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Black\Documents\Visual Studio 2013\Projects\1ExamenSDD\SubiectHeap\Debug\SubiectHeap.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Black\Documents\Visual Studio 2013\Projects\1ExamenSDD\SubiectHeap\Debug\SubiectHeap.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Black\Documents\Visual Studio 2013\Projects\1ExamenSDD\SubiectHeap\Debug\SubiectHeap.lib" /MACHINE:X86 Debug\Source.obj
+         SubiectHeap.vcxproj -> C:\Users\Black\Documents\Visual Studio 2013\Projects\1ExamenSDD\SubiectHeap\Debug\SubiectHeap.exe
+     1>Done Building Project "C:\Users\Black\Documents\Visual Studio 2013\Projects\1ExamenSDD\SubiectHeap\SubiectHeap\SubiectHeap.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.22

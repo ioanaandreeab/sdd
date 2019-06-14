@@ -1,0 +1,7 @@
+Monitor_Cu_Cristale 10 2500 12
+Componenta_Hard 20 1800 24
+RAM_64 30 3000 24
+PCU_12 40 2500 12
+RAM_32 30 2800 24
+Monitor_Slim 10 2000 18
+Monitor_Nou 10 1800 12

@@ -1,0 +1,48 @@
+﻿Build started 07.07.2017 20:51:37.
+     1>Project "C:\Users\Black\Documents\Visual Studio 2013\Projects\1ExamenSDD\TabelaDeDispersie\TabelaDeDispersie\TabelaDeDispersie.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\black\documents\visual studio 2013\projects\1examensdd\tabeladedispersie\tabeladedispersie\source.cpp(44): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\black\documents\visual studio 2013\projects\1examensdd\tabeladedispersie\tabeladedispersie\source.cpp(47): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\black\documents\visual studio 2013\projects\1examensdd\tabeladedispersie\tabeladedispersie\source.cpp(56): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\black\documents\visual studio 2013\projects\1examensdd\tabeladedispersie\tabeladedispersie\source.cpp(57): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\black\documents\visual studio 2013\projects\1examensdd\tabeladedispersie\tabeladedispersie\source.cpp(62): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\black\documents\visual studio 2013\projects\1examensdd\tabeladedispersie\tabeladedispersie\source.cpp(64): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\black\documents\visual studio 2013\projects\1examensdd\tabeladedispersie\tabeladedispersie\source.cpp(66): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\black\documents\visual studio 2013\projects\1examensdd\tabeladedispersie\tabeladedispersie\source.cpp(68): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\black\documents\visual studio 2013\projects\1examensdd\tabeladedispersie\tabeladedispersie\source.cpp(69): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\black\documents\visual studio 2013\projects\1examensdd\tabeladedispersie\tabeladedispersie\source.cpp(70): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\black\documents\visual studio 2013\projects\1examensdd\tabeladedispersie\tabeladedispersie\source.cpp(217): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\black\documents\visual studio 2013\projects\1examensdd\tabeladedispersie\tabeladedispersie\source.cpp(239): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\black\documents\visual studio 2013\projects\1examensdd\tabeladedispersie\tabeladedispersie\source.cpp(295): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\black\documents\visual studio 2013\projects\1examensdd\tabeladedispersie\tabeladedispersie\source.cpp(328): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\black\documents\visual studio 2013\projects\1examensdd\tabeladedispersie\tabeladedispersie\source.cpp(404): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\black\documents\visual studio 2013\projects\1examensdd\tabeladedispersie\tabeladedispersie\source.cpp(406): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\black\documents\visual studio 2013\projects\1examensdd\tabeladedispersie\tabeladedispersie\source.cpp(224): warning C4715: 'modifica' : not all control paths return a value
+     1>c:\users\black\documents\visual studio 2013\projects\1examensdd\tabeladedispersie\tabeladedispersie\source.cpp(246): warning C4715: 'modificaCod' : not all control paths return a value
+     1>c:\users\black\documents\visual studio 2013\projects\1examensdd\tabeladedispersie\tabeladedispersie\source.cpp(202): warning C4715: 'suma' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Black\Documents\Visual Studio 2013\Projects\1ExamenSDD\TabelaDeDispersie\Debug\TabelaDeDispersie.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Black\Documents\Visual Studio 2013\Projects\1ExamenSDD\TabelaDeDispersie\Debug\TabelaDeDispersie.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Black\Documents\Visual Studio 2013\Projects\1ExamenSDD\TabelaDeDispersie\Debug\TabelaDeDispersie.lib" /MACHINE:X86 Debug\Source.obj
+         TabelaDeDispersie.vcxproj -> C:\Users\Black\Documents\Visual Studio 2013\Projects\1ExamenSDD\TabelaDeDispersie\Debug\TabelaDeDispersie.exe
+     1>Done Building Project "C:\Users\Black\Documents\Visual Studio 2013\Projects\1ExamenSDD\TabelaDeDispersie\TabelaDeDispersie\TabelaDeDispersie.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.78

@@ -1,0 +1,6 @@
+5
+12 2 Nurofen Zinat Ionescu 150 0.15
+23 1 Calciu Popescu 80 0.2
+32 2 SiropArtar Magneziu Ionescu 50 0.1
+14 3 Nurofen Omeran Zinat Mircioaga 180 0.15
+25 3 Strepsils Nurofen Omeran David 140 0.2

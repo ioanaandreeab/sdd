@@ -1,0 +1,5 @@
+100,17Iulie2016,Ionescu,4,nou,
+99,18Iulie2016,Popescu,3,deschis,
+300,6August2016,Ionescu,3,nou,
+400,8August2016,David,3,nou,
+500,9Septembrie2016,Florescu,2,inlucru

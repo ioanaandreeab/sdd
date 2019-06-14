@@ -1,0 +1,25 @@
+﻿  Source.cpp
+e:\csie\an 2\sem2\++\sem 2\materiale\sem2-anul 2\sdd\1examensdd\arboreavl-subiect\arboreavl-subiect\source.cpp(32): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+e:\csie\an 2\sem2\++\sem 2\materiale\sem2-anul 2\sdd\1examensdd\arboreavl-subiect\arboreavl-subiect\source.cpp(45): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\csie\an 2\sem2\++\sem 2\materiale\sem2-anul 2\sdd\1examensdd\arboreavl-subiect\arboreavl-subiect\source.cpp(47): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\csie\an 2\sem2\++\sem 2\materiale\sem2-anul 2\sdd\1examensdd\arboreavl-subiect\arboreavl-subiect\source.cpp(49): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+e:\csie\an 2\sem2\++\sem 2\materiale\sem2-anul 2\sdd\1examensdd\arboreavl-subiect\arboreavl-subiect\source.cpp(50): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\csie\an 2\sem2\++\sem 2\materiale\sem2-anul 2\sdd\1examensdd\arboreavl-subiect\arboreavl-subiect\source.cpp(51): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\csie\an 2\sem2\++\sem 2\materiale\sem2-anul 2\sdd\1examensdd\arboreavl-subiect\arboreavl-subiect\source.cpp(54): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\csie\an 2\sem2\++\sem 2\materiale\sem2-anul 2\sdd\1examensdd\arboreavl-subiect\arboreavl-subiect\source.cpp(55): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\csie\an 2\sem2\++\sem 2\materiale\sem2-anul 2\sdd\1examensdd\arboreavl-subiect\arboreavl-subiect\source.cpp(311): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\csie\an 2\sem2\++\sem 2\materiale\sem2-anul 2\sdd\1examensdd\arboreavl-subiect\arboreavl-subiect\source.cpp(313): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\csie\an 2\sem2\++\sem 2\materiale\sem2-anul 2\sdd\1examensdd\arboreavl-subiect\arboreavl-subiect\source.cpp(319): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+e:\csie\an 2\sem2\++\sem 2\materiale\sem2-anul 2\sdd\1examensdd\arboreavl-subiect\arboreavl-subiect\source.cpp(210): warning C4715: 'valoarePersoana': not all control paths return a value
+  ArboreAVL-Subiect.vcxproj -> E:\CSIE\AN 2\Sem2\++\Sem 2\Materiale\SEM2-Anul 2\SDD\1ExamenSDD\ArboreAVL-Subiect\Debug\ArboreAVL-Subiect.exe

@@ -1,0 +1,6 @@
+5
+100 Florilor 6 5 2 2 3 1 2 4000
+200 MateiBasarab 1 3 2 2 2 2500
+99 Florilor 2 2 1 1 1200
+88 Georgescu 1 1 4 300
+101 Horezu 7 3 2 4 4 2800

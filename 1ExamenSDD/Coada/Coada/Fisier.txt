@@ -1,0 +1,6 @@
+5
+Andreea 100
+Bogdan 150
+Andra 230
+Cristina 100
+Mihai 78

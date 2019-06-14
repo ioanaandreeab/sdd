@@ -1,0 +1,6 @@
+5
+100 Grecia 4
+99 Olanda 5
+300 Grecia 3
+400 Danemarca 5
+500 Anglia 7
