@@ -11,9 +11,12 @@ c:\users\ioana\desktop\an 2\sem 2\sdd\aici_incerc\abc\abc\source.cpp(45): warnin
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
 c:\users\ioana\desktop\an 2\sem 2\sdd\aici_incerc\abc\abc\source.cpp(48): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
-c:\users\ioana\desktop\an 2\sem 2\sdd\aici_incerc\abc\abc\source.cpp(106): warning C4326: return type of 'main' should be 'int' instead of 'void'
-c:\users\ioana\desktop\an 2\sem 2\sdd\aici_incerc\abc\abc\source.cpp(108): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\ioana\desktop\an 2\sem 2\sdd\aici_incerc\abc\abc\source.cpp(183): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\ioana\desktop\an 2\sem 2\sdd\aici_incerc\abc\abc\source.cpp(198): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\ioana\desktop\an 2\sem 2\sdd\aici_incerc\abc\abc\source.cpp(200): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
-c:\users\ioana\desktop\an 2\sem 2\sdd\aici_incerc\abc\abc\source.cpp(111): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\ioana\desktop\an 2\sem 2\sdd\aici_incerc\abc\abc\source.cpp(203): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+c:\users\ioana\desktop\an 2\sem 2\sdd\aici_incerc\abc\abc\source.cpp(117): warning C4715: 'stergereArboreBinarDeCautare': not all control paths return a value
   ABC.vcxproj -> C:\Users\ioana\Desktop\AN 2\Sem 2\SDD\aici_incerc\ABC\Debug\ABC.exe

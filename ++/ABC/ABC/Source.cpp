@@ -103,6 +103,98 @@ Avion cautareAvionInArboreDupaNrLocuri(nod* rad, int nrLocuri) {
 	}
 }
 
+//functie pentru stergerea completa a arborelui - utilizeaza parcurgerea in postordine
+nod* stergereArboreBinarDeCautare(nod* rad) {
+	if (rad) {
+		stergereArboreBinarDeCautare(rad->st);
+		stergereArboreBinarDeCautare(rad->dr);
+		free(rad->info.model);
+		free(rad->info.preturiBilete);
+		free(rad);
+		rad = NULL;
+		return rad;
+	}
+}
+
+//functie pt determinarea nivelelor arborelui
+int nivele(nod *rad) {
+	if (rad) {
+		int niveleS = nivele(rad->st);
+		int niveleD = nivele(rad->dr);
+		return 1 + (niveleS > niveleD ? niveleS : niveleD);
+	}
+	else
+		return 0;
+}
+
+//afisare pe un nivel dat
+void afisareNivel(nod* rad, int nivelDorit, int nivelCurent) {
+	if (rad) {
+		if (nivelDorit == nivelCurent) {
+			afisareAvion(rad->info);
+		}
+		else {
+			afisareNivel(rad->st, nivelDorit, nivelCurent + 1);
+			afisareNivel(rad->dr, nivelDorit, nivelCurent + 1);
+		}
+	}
+}
+
+nod* stergereABC(nod* rad, int nrLocuriCautat) {
+	if (rad) {
+		if (rad->info.nrLocuri > nrLocuriCautat)
+			rad->st = stergereABC(rad->st, nrLocuriCautat);
+		else
+			if (rad->info.nrLocuri < nrLocuriCautat) {
+				rad->dr = stergereABC(rad->dr, nrLocuriCautat);
+			}
+			else {
+				//am gasit nodul de sters
+				if (rad->st == NULL) { //nu are descendent in stanga
+					nod* tmp = rad->dr; //poate fi null sau nu, adica poate fi frunza sau nu
+					//dezaloc nodul curent
+					free(rad->info.model);
+					free(rad->info.preturiBilete);
+					free(rad);
+
+					rad = tmp;//refac legatura
+				}
+				else
+					if (rad->dr == NULL) { //nu are descendent in dreapta
+						nod* tmp = rad->st; //poate fi null sau nu, adica poate fi frunza sau nu
+						//dezaloc nodul curent
+						free(rad->info.model);
+						free(rad->info.preturiBilete);
+						free(rad);
+
+						rad = tmp; //refac legatura
+					}
+					else {
+						//cazul cu 2 descendenti
+						nod* tmp = rad->st;
+						while (tmp->dr)
+							tmp = tmp->dr; //cautarea celui mai din dreapta nod din subarborele stang al lui rad
+						//tmp e nodul cu cheia maxima din subarborele stang
+						//dezalocare
+						free(rad->info.model);
+						free(rad->info.preturiBilete);
+						//mutarea datelor din tmp in rad
+						rad->info.model = (char*)malloc(sizeof(char)*(strlen(tmp->info.model) + 1));
+						strcpy(rad->info.model, tmp->info.model);
+						rad->info.nrLocuri = tmp->info.nrLocuri;
+						rad->info.nrLocuriOcupate = tmp->info.nrLocuriOcupate;
+						rad->info.preturiBilete = (float*)malloc(sizeof(float)*rad->info.nrLocuriOcupate);
+						for (int i = 0; i < rad->info.nrLocuriOcupate; i++) {
+							rad->info.preturiBilete[i] = tmp->info.preturiBilete[i];
+						}
+						//sterg ce aveam in tmp(recursiv)
+						rad->st = stergereABC(rad->st, tmp->info.nrLocuri);
+					}
+			}
+	}
+	return rad;
+}
+
 void main() {
 	nod* rad = NULL; //nu avem niciun nod -> arbore gol
 	FILE* fisier = fopen("avioane.txt", "r");
@@ -123,4 +215,19 @@ void main() {
 	//pentru ca am facut deep copy
 	free(avionCautat.model);
 	free(avionCautat.preturiBilete);
+	printf("\n****************");
+	int niveleArbore = nivele(rad);
+	printf("\nNumarul de nivele din arbore este: %d", niveleArbore);
+
+	printf("\n***************");
+	printf("\nPe nivelul 2 se afla:\n");
+	afisareNivel(rad, 2, 1);
+
+	printf("\n***************");
+	printf("\nStergerea nodului radacina");
+	rad = stergereABC(rad, 30);
+	printf("\nDupa stergere:");
+	afisareArboreInordine(rad);
+	stergereArboreBinarDeCautare(rad);
+	printf("\nArborele a fost sters.");
 }
