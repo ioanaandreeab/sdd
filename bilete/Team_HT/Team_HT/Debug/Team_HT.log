@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\ioana\desktop\an 2\sem 2\sdd\aici_incerc\bilete\team_ht\team_ht\source.cpp(22): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\ioana\desktop\an 2\sem 2\sdd\aici_incerc\bilete\team_ht\team_ht\source.cpp(147): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\ioana\desktop\an 2\sem 2\sdd\aici_incerc\bilete\team_ht\team_ht\source.cpp(170): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\ioana\desktop\an 2\sem 2\sdd\aici_incerc\bilete\team_ht\team_ht\source.cpp(109): warning C4715: 'averagePointsOverValue': not all control paths return a value
+c:\users\ioana\desktop\an 2\sem 2\sdd\aici_incerc\bilete\team_ht\team_ht\source.cpp(149): warning C4715: 'averageNoStudentsPerTeam': not all control paths return a value
+c:\users\ioana\desktop\an 2\sem 2\sdd\aici_incerc\bilete\team_ht\team_ht\source.cpp(168): warning C4715: 'HTtoDoubleListOfCodes': not all control paths return a value
+  Team_HT.vcxproj -> C:\Users\ioana\Desktop\AN 2\Sem 2\SDD\aici_incerc\bilete\Team_HT\Debug\Team_HT.exe

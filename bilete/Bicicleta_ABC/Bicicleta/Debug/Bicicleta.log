@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\ioana\desktop\an 2\sem 2\sdd\aici_incerc\bilete\bicicleta\bicicleta\source.cpp(20): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\ioana\desktop\an 2\sem 2\sdd\aici_incerc\bilete\bicicleta\bicicleta\source.cpp(96): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\ioana\desktop\an 2\sem 2\sdd\aici_incerc\bilete\bicicleta\bicicleta\source.cpp(86): warning C4715: 'determinareNrDistinct': not all control paths return a value
+  Bicicleta.vcxproj -> C:\Users\ioana\Desktop\AN 2\Sem 2\SDD\aici_incerc\bilete\Bicicleta\Debug\Bicicleta.exe
